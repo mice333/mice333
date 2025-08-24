@@ -10,7 +10,7 @@ Hi there 👋
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,hibernate,redis,docker,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,mongodb,hibernate,redis,docker,git&theme=light)](https://skillicons.dev)
 
 GitHub Activity
 
