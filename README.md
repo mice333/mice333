@@ -11,8 +11,4 @@ Hi there 👋
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,mongodb,hibernate,redis,docker,git&theme=light)](https://skillicons.dev)
-
-GitHub Activity
-
- <img src="https://github-readme-stats.vercel.app/api?username=mice333&show_icons=true&theme=graywhite&count_private=false&hide_title=true&hide_rank=true&hide=contribs&text_bold=false&include_all_commits=true">
 </div>
