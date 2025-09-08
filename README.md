@@ -11,4 +11,6 @@ Hi there 👋
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,mongodb,hibernate,redis,kafka,docker,git&theme=light)](https://skillicons.dev)
+
+<a href="https://www.codewars.com/users/mice333"><img src="https://www.codewars.com/users/mice333/badges/micro" /></a>
 </div>
