@@ -5,8 +5,13 @@ Hi there 👋
 <a href="https://github.com/mice333">GitHub</a> · <a>Blog</a> · <a href="https://t.me/mice333_bot">Telegram</a> · <a href="mailto:nokisev@mail.ru">Mail</a>
 <br>
 <br>
-  
-🛠 Technical Stack
+🛠 Frontend Stack
+<br>
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react&theme=light)](https://skillicons.dev)
+<br>
+🛠 Backend Stack
 <br>
 
 
