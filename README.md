@@ -9,7 +9,7 @@ Hi there 👋
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react&theme=light)](https://skillicons.dev)
 <br>
 🛠 Backend Stack
 <br>
